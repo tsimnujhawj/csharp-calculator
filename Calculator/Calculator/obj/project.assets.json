@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsimn\\Desktop\\csharp_activities\\calculator\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\tsimn\\Desktop\\CSharp_activities\\csharp-calculator\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\tsimn\\Desktop\\csharp_activities\\calculator\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\tsimn\\Desktop\\CSharp_activities\\csharp-calculator\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\tsimn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsimn\\Desktop\\csharp_activities\\calculator\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\tsimn\\Desktop\\CSharp_activities\\csharp-calculator\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
